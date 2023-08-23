@@ -1,3 +1,7 @@
+general.csv
+tweets/
+.vscode
+*.Identifier
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
